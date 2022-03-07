@@ -29,17 +29,17 @@ Once satisfactory results are achieved in simulation, participants would be allo
 To be allowed to compete on the final competition, teams must submit a report (including videos of their fully functional solution in simulation) and upload their code for review.
 
 
-### Competition Prizes
+<!-- ### Competition Prizes
 - The 1st place winner: **$2,000**
-- Other awards for top teams include prizes from sponsors such as laptops, tablets & mentoring!
+- Other awards for top teams include prizes from sponsors such as laptops, tablets & mentoring!  -->
 
 ### How to Register
 
 Prospective teams are required to complete an [online application](https://creatorapp.zohopublic.com/zoho_info23208/parc-teams/form-perma/Apply_for_PARC_2021/DbgeNAHtvKN0UEXvmYfwSRW6F37KUrHKX9hhw89qqkRJnXFgQzk1Sg6yEOVRDQURFTAbYYBETYgvjNuHNmNtNbuAOgKzBWsnvfUa). 
 
-### Team Profile
+<!--  ### Team Profile
 
-After you register, your team must complete the [Team profile form]( https://creatorapp.zohopublic.com/zoho_info23208/parc-teams/form-perma/Team_Profile_ENGINEERS_LEAGUE/gUNhmymqvYuQ86TzgsOt1K3EJ2PUJrXDUMW4Wd1NR47V5893RsMvW0u4WB9QypE0O2gBQ6JSXuUdD6UzqtH1zxH2T34A1p1DaVak).
+After you register, your team must complete the [Team profile form]( https://creatorapp.zohopublic.com/zoho_info23208/parc-teams/form-perma/Team_Profile_ENGINEERS_LEAGUE/gUNhmymqvYuQ86TzgsOt1K3EJ2PUJrXDUMW4Wd1NR47V5893RsMvW0u4WB9QypE0O2gBQ6JSXuUdD6UzqtH1zxH2T34A1p1DaVak).  -->
 
 
 
