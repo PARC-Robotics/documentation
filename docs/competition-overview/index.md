@@ -23,7 +23,7 @@ Participating teams will follow the instructions in this documentation to set up
 Teams are required to complete and upload their solutions on or before the Phase 1 deadline. Following team evaluations, teams with the best solutions will qualify to compete in Phase 2.
 
 ### Physical Robot Phase
-In this phase, the qualified teams get a chance to refine and deploy their software on the physical robot to compete on the main competition day. First, a complete simulation of the competition environment would be provided to teams to integrate and their solutions from Phase 1. The task here is to operate the delivery robot to complete a delivery by moving from parcel pickup location to the drop-off location. 
+In this phase, the qualified teams get a chance to refine and deploy their software on the physical robot **"Turtlebot 3 Burger"** to compete on the main competition day. First, a complete simulation of the competition environment would be provided to teams to integrate and their solutions from Phase 1. The task here is to operate the delivery robot to complete a delivery by moving from parcel pickup location to the drop-off location. 
 
 Once satisfactory results are achieved in simulation, participants would be allowed to test their software on the physical robot virtually by reserving time on our booking calendar [to be provided]. 
 To be allowed to compete on the final competition, teams must submit a report (including videos of their fully functional solution in simulation) and upload their code for review.
@@ -47,14 +47,12 @@ After you register, your team must complete the [Team profile form]( https://cre
 
 |  Event | Date    |
 | ------------- | ----------- |
-|  Registration Opens  | February 20th 2021     |
-|  Registration Deadline  | March 20th 2021   |
-|  Phase 1 Submission Deadline  | May 16th 2021   |
-|  Phase 2 Qualification Announcement  | May 28th 2021   |
-|  Phase 2 Kick-Off  | July 16th 2021   |
-|  Phase 2 Testing Period  | July 29th-August 25th 2021   |
-|  Phase 2 Submission Deadline  | August 25th 2021   |
-|  Final Competition Days  | August 27th-28th 2021   |
+|  Registration Deadline  | March 28th 2022   |
+|  Phase 1 Submission Deadline  | May 16th 2022   |
+|  Phase 2 Qualification Announcement  | May 22nd 2022   |
+|  Phase 2 Kick-Off  | May 23th 2022   |
+|  Phase 2 Testing Period  | May 24th-July 15th 2022   |
+|  Final Competition Days  | July 2022   |
 
 
 <!-- |  Phase 1 Qualification Announcement  | February 26th 2021   | -->
