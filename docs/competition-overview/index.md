@@ -23,7 +23,9 @@ Participating teams will follow the instructions in this documentation to set up
 Teams are required to complete and upload their solutions on or before the Phase 1 deadline. Following team evaluations, teams with the best solutions will qualify to compete in Phase 2.
 
 ### Physical Robot Phase
-![robot](images/turtlebot.jpg)
+
+![robot](images/bot.jpg)
+
 In this phase, the qualified teams get a chance to refine and deploy their software on the physical robot **"Turtlebot 3 Burger"** to compete on the main competition day. First, a complete simulation of the competition environment would be provided to teams to integrate and their solutions from Phase 1. The task here is to operate the delivery robot to complete a delivery by moving from parcel pickup location to the drop-off location. 
 
 Once satisfactory results are achieved in simulation, participants would be allowed to test their software on the physical robot virtually by reserving time on our booking calendar [to be provided]. 
