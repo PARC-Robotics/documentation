@@ -7,7 +7,7 @@
 
 Welcome to Phase 2 of the PARC Engineers League Competition 2022. You are here because you qualified from the phase 1 of the competition. Congratulations!
 
-In this Phase, teams will improve and adapt their Phase 1 solutions for deployment on a physical robot to successfully complete the delivery task. Specifically, teams are required to develop and test their software iteratively in simulation and on the physical robot (remotely).
+In this Phase, teams will improve and adapt their Phase 1 solutions for deployment on a physical robot to successfully complete the delivery task. Specifically, teams are required to develop and test their software iteratively in simulation and on the physical robot on July the first 2022.
 
 The simulation platform remains [Gazebo Simulator](http://gazebosim.org/). Teams will improve their Phase 1 solutions in simulation and then test in real time on the physical robot through remote access.
 
