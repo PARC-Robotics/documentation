@@ -4,10 +4,10 @@ There are four (4) items to submit as we finalize the competition:
 
 |  Item | Deadline    |
 | ------------- | ----------- |
-|  Project Report  | August 25th 2021     |
-|  Project Presentation Video  | August 26th 2021   |
-|  Software Package(s) - For Physical Robot  | August 26th 2021   |
-|  Software Package(s) - For Simulation  | August 27th 2021   |
+|  Project Report  | Juin 25th 2022     |
+|  Project Presentation Video  | Juin 26th 2022   |
+|  Software Package(s) - For Physical Robot  | Juin 26th 2022   |
+|  Software Package(s) - For Simulation  | Juin 27th 2022   |
 
 Please see detailed instructions on how to submit below.
 
@@ -15,7 +15,7 @@ Please see detailed instructions on how to submit below.
 ***
 
 ### Project Report
-###### Due Date: 11:59PM on August 25th, 2021 (Eastern African Time)
+###### Due Date: 11:59PM on Juin 25th, 2022 (Eastern African Time)
 
 This is your final report summarizing the work done and lessons learned by your team in the competition. Please pay attention to the format and requirements below:
 
