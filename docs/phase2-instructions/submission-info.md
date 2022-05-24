@@ -4,10 +4,10 @@ There are four (4) items to submit as we finalize the competition:
 
 |  Item | Deadline    |
 | ------------- | ----------- |
-|  Project Report  | Juin 25th 2022     |
-|  Project Presentation Video  | Juin 26th 2022   |
-|  Software Package(s) - For Physical Robot  | Juin 26th 2022   |
-|  Software Package(s) - For Simulation  | Juin 27th 2022   |
+|  Project Report  | June 25th 2022     |
+|  Project Presentation Video  | June 26th 2022   |
+|  Software Package(s) - For Physical Robot  | June26th 2022   |
+|  Software Package(s) - For Simulation  | June 27th 2022   |
 
 Please see detailed instructions on how to submit below.
 
@@ -15,7 +15,7 @@ Please see detailed instructions on how to submit below.
 ***
 
 ### Project Report
-###### Due Date: 11:59PM on Juin 25th, 2022 (Eastern African Time)
+###### Due Date: 11:59PM on June 25th, 2022 (Eastern African Time)
 
 This is your final report summarizing the work done and lessons learned by your team in the competition. Please pay attention to the format and requirements below:
 
@@ -39,7 +39,7 @@ Submit your [Project Report here](https://forms.gle/mLstEYxUhDfXRe3v8).
 *** 
 
 ### Project Presentation Video
-###### Due Date: 11:59PM on August 26th, 2021 (Eastern African Time)
+###### Due Date: 11:59PM on June 26th, 2022 (Eastern African Time)
 
 - **Format:**
     - Prepare slide presentation consistent with your project report. In the presentation, the teams should summarize their work done and lessons learned. The presentation will be played on the final competition day and be evaluated by the judges.
@@ -59,7 +59,7 @@ Submit your [Project Presentation Video here](https://forms.gle/ofoRbEXgdoL9rR1d
 ***
 
 ### Software Package(s) - For Physical Robot
-###### Due Date: 11:59PM on August 26th, 2021 (Eastern African Time)
+###### Due Date: 11:59PM on June 26th, 2022 (Eastern African Time)
 
 The final item to submit is a zipped folder of your entire software solution. 
 
@@ -71,7 +71,7 @@ Submit your [Software Package (For Physical Robot) here](https://forms.gle/ofoRb
 ***
 
 ### Software Package(s) - For Simulation
-###### Due Date: 11:59PM on August 27th, 2021 (Eastern African Time)
+###### Due Date: 11:59PM on June 27th, 2022 (Eastern African Time)
 
 Please follow the same format as above (for the Physical Robot case).
 
