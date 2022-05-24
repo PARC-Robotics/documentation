@@ -30,7 +30,7 @@ The physical field was built to emulate the realistic street structure with road
 
 ![physical](media/physical_description.png)
 
-
+This physical field can be used as a training arena before coming to senegal on july the first where you are going to compete on a new field.
 ***
 
 ##### Simulation Environment
