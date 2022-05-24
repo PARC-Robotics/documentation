@@ -3,9 +3,9 @@
 <!-- ***
 
 !!! note 
-    Phase 2 instructions are **currently locked** and would be available by May 28th 2021! -->
+    Phase 2 instructions are **currently locked** and would be available by July 1st 2022! -->
 
-Welcome to Phase 2 of the PARC Engineers League Competition 2021. You are here because you qualified from the phase 1 of the competition. Congratulations!
+Welcome to Phase 2 of the PARC Engineers League Competition 2022. You are here because you qualified from the phase 1 of the competition. Congratulations!
 
 In this Phase, teams will improve and adapt their Phase 1 solutions for deployment on a physical robot to successfully complete the delivery task. Specifically, teams are required to develop and test their software iteratively in simulation and on the physical robot (remotely).
 
